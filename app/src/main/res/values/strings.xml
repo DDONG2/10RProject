@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Click the 10R</string>
+
+    <!-- 인트로 -->
+    <string name="Intro_title">마음을 풀 수 있는 \n하나의 버튼\nClick the 10R</string>
+    <string name="Intro_content">10R</string>
+
+    <!-- 메인 -->
+    <string name="main_title">심호흡 한번\n크게 하고 갑시다</string>
+    <string name="main_touch">아무 곳이나 터치하세요</string>
+
+
+    <!-- 클릭 화면 -->
+    <string name="click_buttom">10R</string>
+
+</resources>
